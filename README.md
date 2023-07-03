@@ -1,1 +1,2 @@
-# bcoin-mixer
+#JobCoin Mixer
+
