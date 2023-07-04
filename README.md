@@ -11,4 +11,6 @@ smaller discrete increments to the ‘withdrawal’ addresses that you provided,
 after deducting a fee.
 
 ##Transaction flow
+
+
 ![image](https://github.com/nikks95/bcoin-mixer/assets/22238994/b76f0178-7300-4d81-ad9d-7d9b50765d43)
